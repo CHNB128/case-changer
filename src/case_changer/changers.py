@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import re as _re
 from typing import Callable, Sequence, Tuple, Union
+from collections import OrderedDict
 
 __author__ = 'Philipp Tempel'
 __email__ = 'p.tempel@tudelft.nl'
