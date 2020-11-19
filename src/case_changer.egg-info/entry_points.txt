@@ -1,0 +1,3 @@
+[console_scripts]
+case-changer = case_changer.cli:cli
+
